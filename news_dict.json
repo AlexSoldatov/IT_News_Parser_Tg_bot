@@ -1,0 +1,164 @@
+{
+    "525046": {
+        "article_date_timestamp": 1632732945.0,
+        "article_title": "Синтетические данные не обеспечивают надежной защиты конфиденциальности",
+        "article_url": "https://www.securitylab.ru/news/525046.php",
+        "article_desc": "Защита обеспечивается только за счет снижения полезности систем поиска информации, которые их используют."
+    },
+    "525042": {
+        "article_date_timestamp": 1632730372.0,
+        "article_title": "Samsung хочет скопировать мозг человека на чип памяти",
+        "article_url": "https://www.securitylab.ru/news/525042.php",
+        "article_desc": "Эксперты изучают возможность загрузки карты нейронов головного мозга в компьютерный чип памяти."
+    },
+    "525039": {
+        "article_date_timestamp": 1632729139.0,
+        "article_title": "Live-demo «Система сбора и корреляции событий на примере ArcSight»",
+        "article_url": "https://www.securitylab.ru/news/525039.php",
+        "article_desc": ""
+    },
+    "525033": {
+        "article_date_timestamp": 1632726830.0,
+        "article_title": "Microsoft отключит базовую аутентификацию в Exchange Online с октября 2022 года",
+        "article_url": "https://www.securitylab.ru/news/525033.php",
+        "article_desc": "Базовая аутентификация облегчает злоумышленникам кражу учетных данных пользователей."
+    },
+    "525030": {
+        "article_date_timestamp": 1632724588.0,
+        "article_title": "Facebook обновила политики использования cookie-файлов для жителей ЕС",
+        "article_url": "https://www.securitylab.ru/news/525030.php",
+        "article_desc": "Пользователи в ЕС получать больше контроля над своей приватностью."
+    },
+    "525029": {
+        "article_date_timestamp": 1632723042.0,
+        "article_title": "CISA вынесло на общественное обсуждение руководство по IPv6",
+        "article_url": "https://www.securitylab.ru/news/525029.php",
+        "article_desc": "Агентство намеревается реализовать протокол IPv6 в федеральных IT-системах."
+    },
+    "525027": {
+        "article_date_timestamp": 1632721025.0,
+        "article_title": "Вымогатели Conti атаковали крупного европейского провайдера колл-центров",
+        "article_url": "https://www.securitylab.ru/news/525027.php",
+        "article_desc": "Атака вывела из строя большую часть IT-систем подразделения GSS компании Covisian."
+    },
+    "525028": {
+        "article_date_timestamp": 1632719099.0,
+        "article_title": "YouTube пообещал сотрудничать с российскими властями",
+        "article_url": "https://www.securitylab.ru/news/525028.php",
+        "article_desc": "YouTube рассчитывает продолжить работу в России и сделает все для урегулирования возможных разногласий с властями, заявила глава компании."
+    },
+    "525026": {
+        "article_date_timestamp": 1632689580.0,
+        "article_title": "Более 200 китайских игровых компаний будут бороться с игровой зависимостью несовершеннолетних",
+        "article_url": "https://www.securitylab.ru/news/525026.php",
+        "article_desc": "213 игровых компаний из Поднебесной пообещали навести порядок в области индустрии для борьбы с игровой зависимостью."
+    },
+    "525025": {
+        "article_date_timestamp": 1632686562.0,
+        "article_title": "Британский суд отказал ИИ в праве на изобретения",
+        "article_url": "https://www.securitylab.ru/news/525025.php",
+        "article_desc": "Апелляционный суд Великобритании постановил, что системы искусственного интеллекта не могут юридически считаться авторами изобретений."
+    },
+    "525024": {
+        "article_date_timestamp": 1632682221.0,
+        "article_title": "Многодетной матери грозит 6 лет тюрьмы за пиратский софт",
+        "article_url": "https://www.securitylab.ru/news/525024.php",
+        "article_desc": "В Первоуральске начался суд над многодетной матерью, у которой полиция нашла пиратские копии бухгалтерской программы 1С."
+    },
+    "525023": {
+        "article_date_timestamp": 1632681234.0,
+        "article_title": "HackerOne расширила программу поиска уязвимостей в открытом ПО",
+        "article_url": "https://www.securitylab.ru/news/525023.php",
+        "article_desc": "В число проектов с открытым кодом, попадающих под программу выплаты вознаграждений HackerOne, включены: Ruby, Ruby on Rails, RubyGems, Curl, Electron, Django, Nginx и OpenSSL."
+    },
+    "525022": {
+        "article_date_timestamp": 1632676096.0,
+        "article_title": "МВД создает банк биометрических данных россиян и иностранцев",
+        "article_url": "https://www.securitylab.ru/news/525022.php",
+        "article_desc": "МВД планирует создать базы биометрических данных россиян и находящихся в стране иностранцев к 2023 году."
+    },
+    "525021": {
+        "article_date_timestamp": 1632672000.0,
+        "article_title": "Хакеры помешали американским чиновникам бороться с последствиями урагана",
+        "article_url": "https://www.securitylab.ru/news/525021.php",
+        "article_desc": "Онлайн-заседание, посвящённое вопросу постоянного прерывания телефонной связи и подачи электроэнергии после урагана  «Ида», пришлось остановить из-за хакерской атаки."
+    },
+    "525020": {
+        "article_date_timestamp": 1632670127.0,
+        "article_title": "ЦБ рассказал о кибератаках на банки в августе и сентябре",
+        "article_url": "https://www.securitylab.ru/news/525020.php",
+        "article_desc": "Кибератакам в августе подверглись 10-15 российских финансовых организаций, обслуживающих электронную коммерцию."
+    },
+    "525058": {
+        "article_date_timestamp": 1632747035.0,
+        "article_title": "В 2021 году зафиксировано рекордное число атак с использованием 0Day-уязвимостей",
+        "article_url": "https://www.securitylab.ru/news/525058.php",
+        "article_desc": "В этом году было обнаружено более 66 случаев использования уязвимостей нулевого дня — почти вдвое больше, чем в 2020 году."
+    },
+    "525057": {
+        "article_date_timestamp": 1632745201.0,
+        "article_title": "Компания Stronghold Digital Mining добывает биткойны из угольных отходов",
+        "article_url": "https://www.securitylab.ru/news/525057.php",
+        "article_desc": "Компания Stronghold Digital Mining приобретает тепловые электростанции для расширения деятельности по добыче биткойна."
+    },
+    "525056": {
+        "article_date_timestamp": 1632744438.0,
+        "article_title": "Япония включила Россию в список угроз кибербезопасности",
+        "article_url": "https://www.securitylab.ru/news/525056.php",
+        "article_desc": "Правительство Японии приняло проект стратегии кибербезопасности на следующие три года, впервые назвав Китай, Россию и Северную Корею угрозами кибератак."
+    },
+    "525052": {
+        "article_date_timestamp": 1632743235.0,
+        "article_title": "Пресс-секретарь Белого дома работала на производителя шпионского ПО",
+        "article_url": "https://www.securitylab.ru/news/525052.php",
+        "article_desc": "Джен Псаки работала консультантом в израильской компании AnyVision Interactive Technologies."
+    },
+    "525060": {
+        "article_date_timestamp": 1632749421.0,
+        "article_title": "Новая версия вредоноса Jupyter распространяется через установщик MSI",
+        "article_url": "https://www.securitylab.ru/news/525060.php",
+        "article_desc": "Новая цепочка заражения свидетельствует о том, что хакеры продолжают работать над повышением эффективности своих атак."
+    },
+    "525061": {
+        "article_date_timestamp": 1632751950.0,
+        "article_title": "Выпущено срочное обновление для Chrome, исправляющее 0Day-уязвимость",
+        "article_url": "https://www.securitylab.ru/news/525061.php",
+        "article_desc": "Это уже 12 уязвимость в Chrome, исправленная с начала 2021 года."
+    },
+    "525068": {
+        "article_date_timestamp": 1632812465.0,
+        "article_title": "Chrome перестанет поддерживать расширения Manifest V2 с января 2023 года",
+        "article_url": "https://www.securitylab.ru/news/525068.php",
+        "article_desc": "После прекращения поддержки спецификации Manifest V2 могут перестать работать блокировщики рекламы."
+    },
+    "525067": {
+        "article_date_timestamp": 1632809137.0,
+        "article_title": "Вредоносное расширение Safepal Wallet для Firefox похищало деньги у пользователей",
+        "article_url": "https://www.securitylab.ru/news/525067.php",
+        "article_desc": "Из-за вредоносного расширения один из пользователей Mozilla Firefox потерял $4 тыс."
+    },
+    "525066": {
+        "article_date_timestamp": 1632807374.0,
+        "article_title": "Серверы Exchange будут автоматически получать временные исправления",
+        "article_url": "https://www.securitylab.ru/news/525066.php",
+        "article_desc": "Новая функция будет автоматически блокировать эксплуатацию уязвимостей в Exchange до выхода официальных патчей."
+    },
+    "525065": {
+        "article_date_timestamp": 1632804129.0,
+        "article_title": "Правительство РФ утвердило Яндекс для предустановки на гаджеты",
+        "article_url": "https://www.securitylab.ru/news/525065.php",
+        "article_desc": "\"Предустановка \"Яндекса\" в качестве поисковой системы позволит выровнять условия использования российских и зарубежных сервисов."
+    },
+    "525063": {
+        "article_date_timestamp": 1632770336.0,
+        "article_title": "YouTube запретил ролики, оспаривающие результаты выборов",
+        "article_url": "https://www.securitylab.ru/news/525063.php",
+        "article_desc": "В новых правилах отмечается, что на YouTube не допустимо \"введение в заблуждение избирателей\"."
+    },
+    "525062": {
+        "article_date_timestamp": 1632769282.0,
+        "article_title": "Финляндия обвинила Россию и Китай  в кибершпионаже",
+        "article_url": "https://www.securitylab.ru/news/525062.php",
+        "article_desc": "Контрразведка Финляндии проинформировала о том, что к её сетевой инфраструктуре проявляют интерес другие страны."
+    }
+}
